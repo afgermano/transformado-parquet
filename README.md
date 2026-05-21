@@ -36,16 +36,10 @@ Para executar este script, você precisará ter o Python 3.7 ou superior instala
     ```
 
 3.  Instale as dependências:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    Se você não tiver um arquivo `requirements.txt`, pode instalar as bibliotecas manualmente:
-
-    ```bash
-    pip install pandas pyarrow openpyxl
-    ```
+   Instale as bibliotecas
+    - `pandas`
+    - `pyarrow`
+    - `openpyxl`
 
 ## 📖 Como Usar
 
